@@ -1,0 +1,1 @@
+chrome-extension://bpjgifoolpikgldgdbbfhpidhmfbanga/build/content-script.js
